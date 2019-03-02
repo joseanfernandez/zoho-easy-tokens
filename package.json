@@ -1,0 +1,30 @@
+{
+  "name": "zoho-easy-tokens",
+  "version": "1.0.0",
+  "description": "Generate grant, refresh and access tokens in Zoho",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard --fix --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseanfernandez/zoho-easy-tokens.git"
+  },
+  "keywords": [
+    "zoho"
+  ],
+  "author": "Jose Antonio Fernández García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseanfernandez/zoho-easy-tokens/issues"
+  },
+  "homepage": "https://github.com/joseanfernandez/zoho-easy-tokens#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "wreck": "^14.1.4"
+  }
+}
