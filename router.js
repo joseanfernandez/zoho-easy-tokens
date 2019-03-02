@@ -32,7 +32,7 @@ module.exports = [
 
       return {
         url: urlGrant,
-        instructions: 'You will get redirected to the "redirect_uri" that you specified during registration of the app.' +
+        instructions: 'You will get redirected to the "redirectUri" that you specified during registration of the app.' +
           'Note down the "code={grant_token}" parameter.' +
           'This is a short-lived token (valid only for a minute) and will be used to generate the access token and refresh token.'
       }
