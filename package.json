@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "hapi": "^18.1.0",
+    "winston": "^3.2.1",
     "wreck": "^14.1.4"
   }
 }
