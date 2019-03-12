@@ -21,7 +21,7 @@ You need your:
 * clientSecret
 * redirectUri
 
-Go to [developer console](accounts.zoho.com/developerconsole)
+Go to [developer console](https://accounts.zoho.com/signin?servicename=AaaServer&serviceurl=%2Fdeveloperconsole)
 
 Register your application.
 
